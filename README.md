@@ -1,64 +1,64 @@
-# ResumeGeneerator
-Automatic Resume Generator
-Resume Builder Project
+# ResumeGenerator 📄
 
-This is a Resume Builder application built using React and TypeScript. The project allows users to create, preview, and manage resumes with a user-friendly interface.
+ResumeGenerator is a web application that allows users to automatically generate and manage their resumes. Built with React and TypeScript, this project helps users create, preview, and manage their resumes through a simple and intuitive interface.
 
-Features
+## Problem Statement
+With the ResumeGenerator project, we aim to streamline the process of creating professional resumes by providing users with an easy-to-use platform where they can quickly build their resumes by filling out dynamic forms, see real-time previews, and download or share their completed resumes.
 
-Dynamic Forms: Add personal details, education, skills, projects, and awards.
+### Features
+- **Dynamic Forms**: Add personal details, education, skills, projects, and awards.
+- **Real-Time Preview**: View changes to the resume in real time as you make edits.
+- **Modular Components**: Reusable components for forms and resume previews to make the development process efficient.
+- **Responsive Design**: The application works seamlessly across devices.
+  
+### Built Using
+[![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%23167EFB.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-643EED.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-Real-Time Preview: View changes to the resume in real time.
+### Project Screenshots
+![Image1](https://github.com/user-attachments/assets/sample1.jpg)
+![Image2](https://github.com/user-attachments/assets/sample2.jpg)
+![Image3](https://github.com/user-attachments/assets/sample3.jpg)
 
-Modular Components: Reusable components for forms and previews.
+## Run the Project Locally
 
-Tech Stack
+To run the ResumeGenerator application locally, follow the steps below:
 
-Frontend: React, TypeScript, Tailwind CSS
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
 
-Build Tool: Vite
+2. **Navigate to the project directory**:
+    ```bash
+    cd your-repo-name
+    ```
 
-Package Management: npm
+3. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-Getting Started
+4. **Run the development server**:
+    ```bash
+    npm run dev
+    ```
 
-Getting Started
+5. **Open the application** in your browser at `http://localhost:5173`.
 
-Prerequisites
+### Building for Production
 
-Node.js: Install Node.js
+To build the application for production:
 
-npm: Comes with Node.js installation
+1. **Build the project**:
+    ```bash
+    npm run build
+    ```
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-Navigate to the project directory:
-
-cd your-repo-name
-
-Install dependencies:
-
-npm install
-
-Running the Application
-
-Start the development server:
-
-npm run dev
-
-Open the application in your browser at:
-http://localhost:5173
-
-Building for Production
-
-Build the project:
-
-
-npm run build
-npm run build
-Serve the production build:
-npm run preview
+2. **Serve the production build**:
+    ```bash
+    npm run preview
+    ```
