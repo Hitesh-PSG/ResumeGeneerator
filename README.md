@@ -19,9 +19,8 @@ With the ResumeGenerator project, we aim to streamline the process of creating p
 [![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ### Project Screenshots
-![Image1](https://github.com/user-attachments/assets/sample1.jpg)
-![Image2](https://github.com/user-attachments/assets/sample2.jpg)
-![Image3](https://github.com/user-attachments/assets/sample3.jpg)
+![Image1](img.png)
+
 
 ## Run the Project Locally
 
