@@ -22,6 +22,8 @@ Package Management: npm
 
 Getting Started
 
+Getting Started
+
 Prerequisites
 
 Node.js: Install Node.js
@@ -29,3 +31,34 @@ Node.js: Install Node.js
 npm: Comes with Node.js installation
 
 Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/your-repo-name.git
+
+Navigate to the project directory:
+
+cd your-repo-name
+
+Install dependencies:
+
+npm install
+
+Running the Application
+
+Start the development server:
+
+npm run dev
+
+Open the application in your browser at:
+http://localhost:5173
+
+Building for Production
+
+Build the project:
+
+
+npm run build
+npm run build
+Serve the production build:
+npm run preview
